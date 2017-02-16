@@ -1,113 +1,103 @@
-Forward contract
+# Forward contract #
 
-A forward contract is a private agreement that obligates one party to buy and the other party to sell a specific quantity of an underlying asset, at a set price, at a future date.
-If the future price of the underlying assets increase, the buyer has a gain, and the seller has a loss.
+- A forward contract is a private agreement that obligates one party to buy and the other party to sell a specific quantity of an underlying asset, at a set price, at a future date.
+- If the future price of the underlying assets increase, the buyer has a gain, and the seller has a loss.
 
-Futures contract
+# Futures contract #
 
-A futures contract is a forward contract that is standardized and exchange-traded.
-A forward contract
-Are regulated
-Backed by clearinghouse
-Require a daily settlement of gains and losses
-
-
-Swap contract
-
-A Swap contract is a series of forward contracts.
-Exchange cash flows on periods settlement dates
-Default risk
+- A futures contract is a forward contract that is standardized and exchange-traded
+- A forward contract
+- Are regulated
+- Backed by clearinghouse
+- Require a daily settlement of gains and losses
 
 
-Option contract
+# Swap contract #
 
-The owner has the right, but ont the obligation to conduct a transation.
+- A Swap contract is a series of forward contracts.
+- Exchange cash flows on periods settlement dates.
+- Default risk
 
-Call Option ¿´ÕÇÆÚÈ¨
-Put Option ¿´µøÆÚÈ¨
-ËÄ¸öÍ·´ç
+# Option contract #
 
-·ÖÀà
-forward commitment: forward, futures, swap
-contingent claim: »òÓÐ: option
+- The owner has the right, but ont the obligation to conduct a transaction.
+	- Call Option çœ‹æ¶¨æœŸæƒ
+	- Put Option çœ‹è·ŒæœŸæƒ
+	- å››ä¸ªå¤´å¯¸
 
-Exchange-traded: ½»Ò×Ëù½»Ò×£º futures, option: standardized
-Over-the-counter traded: ³¡Íâ½»Ò×£ºforward, swap, option : customized
+# åˆ†ç±» #
 
-CDS: Credit default swap - Option ÐÅÓÃÎ¥Ô¼»¥»»
+- forward commitment: forward, futures, swap
+- contingent claim: æˆ–æœ‰: option
+- Exchange-traded: äº¤æ˜“æ‰€äº¤æ˜“ï¼š futures, option: standardized
+- Over-the-counter traded: åœºå¤–äº¤æ˜“ï¼šforward, swap, option : customized
+- CDS: Credit default swap - Option ä¿¡ç”¨è¿çº¦äº’æ¢
 
-Terms
+# Terms #
 
-Forward commitment
+## Forward commitment ##
+- Longï¼šä¹°æ ‡çš„ç‰©ï¼Œå¤šå¤´
+- Shortï¼šå–æ ‡çš„ç‰©ï¼Œç©ºå¤´
+- 
+## Contingent claim ##
 
+- Longï¼šèŽ·å¾—ä¸€ä¸ªæƒåˆ©
+- Shortï¼šå–å‡ºä¸€ä¸ªæƒåˆ©
+- Callï¼šä¹°å…¥æ ‡çš„ç‰©çš„æƒåˆ©
+- Putï¼šå–å‡ºæ ‡çš„ç‰©çš„æƒåˆ©
 
+# Derivative #
+## Advantage ##
 
-Long£ºÂò±êµÄÎï£¬¶àÍ·
-Short£ºÂô±êµÄÎï£¬¿ÕÍ·
+- Price discovery
+- Risk management
+- Lowering transaction costs -> futures
+- Low capital requirement -> futures
+- Greater liquidity -> futures
+- Ease of going short
+- Enhance market efficiency
 
-Contingent claim
-Long£º»ñµÃÒ»¸öÈ¨Àû
-Short£ºÂô³öÒ»¸öÈ¨Àû
-Call£ºÂòÈë±êµÄÎïµÄÈ¨Àû
-Put£ºÂô³ö±êµÄÎïµÄÈ¨Àû
+## Disadvantage ##
+- Too risky -> high leverage
+- Complex instruments
+- Something likened to gambling
 
+## Risk-free arbitrage and no-arbitrage rule ##
+## Law of one price ##
 
-Derivative
-Advantage:
-Price discorvery
-Risk management
-Lowering transaction costs -> futures
-Low captical requrement -> futures
-Greater liquidity -> futures
-Ease of going short
-Enhance market effcidency
+# Forward Contract #
+- Long, Short
+- No payments will be made at the inception of a forward contract. So both parties are exposed to potential default risk (counterparty risk).
 
-Disadvantage:
-Too risky -> high leverage
-Complex instruments
-Something likened to gambling
+- commodity forward contract
+- financial forward contract
+- Zero-sum game
 
+# settling a forward contract at expiration #
+- physical settlement
+- cash settlement
 
-Risk-free arbitrage and no-arbitrage rule
-Law of one price
+# settling a forward contract prior to expiration #
+- offsetting with a different party: default risk
+- offsetting with the orginal party: avoid default risk
 
+# FRAï¼šForward Rate Aggreementï¼šè¿œæœŸåˆ©çŽ‡åˆçº¦ #
 
-Forward Contract
-Long, Short
-No payments will be made at the inception of a forward contract. So both parties are exposed to potential default risk (counterparty risk).
-
-commodity forward contract
-financial forward contract
-
-Zero-sum game
-
-settling a forward contract at expiration
-physical settlement
-cash settlement
-
-settling a forward contract prior to expiration
-offsetting with a different party: default risk
-offsetting with the orginal party: avoid default risk
-
-
-FRA£ºForward Rate Aggreement£ºÔ¶ÆÚÀûÂÊºÏÔ¼
-Eurodollar (Àë°¶ÃÀÔª) time deposit
-LIBOR: London Interbank Offer Rate
-USD interest rates
-Quoted as an annualized rates based on a 360-day a year
-Add-on rate ÕýÏòÀûÂÊ£¬ T-biu: discount rate ·´ÏòÀûÂÊ
-Single interest
-
-Long£ºborrower, LIBOR up -> gain
-Short£ºlender, LIBOR up -> loss
-
-Long: ±êµÄ×Ê²úÉÏÉý£¬×¬Ç®
-Short£º±êµÄ×Ê²úÉÏÉý£¬¿÷Ç®
-
-·çÏÕ·¢Éú -> Long ×¬Ç®
-
-±íÏÖÐÎÊ½£º1*4 FRA
-ÆÚÏÞ£º1¸öÔÂ£¬Ò»¸öÔÂºó½èÇ®£»4´ú±í4¸öÔÂÒÔºó»¹Ç®
+## Rates ##
+- Eurodollar (ç¦»å²¸ç¾Žå…ƒ) time deposit
+- LIBOR: London Interbank Offer Rate
+- USD interest rates
+- Quoted as an annualized rates based on a 360-day a year
+- Add-on rate æ­£å‘åˆ©çŽ‡ï¼Œ T-biu: discount rate åå‘åˆ©çŽ‡
+- Single interest
+## äº¤æ˜“åŒæ–¹ ##
+- Longï¼šborrower, LIBOR up -> gain
+- Shortï¼šlender, LIBOR up -> loss
+- Long: æ ‡çš„èµ„äº§ä¸Šå‡ï¼Œèµšé’±
+- Shortï¼šæ ‡çš„èµ„äº§ä¸Šå‡ï¼Œäºé’±
+- é£Žé™©å‘ç”Ÿ -> Long èµšé’±
+- è¡¨çŽ°å½¢å¼ï¼š1*4 FRA
+- æœŸé™ï¼š1ä¸ªæœˆï¼Œä¸€ä¸ªæœˆåŽå€Ÿé’±ï¼›4ä»£è¡¨4ä¸ªæœˆä»¥åŽè¿˜é’±
 
 
 
