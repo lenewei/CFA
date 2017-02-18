@@ -180,7 +180,7 @@
 
 ##Mutual Funds##
 ##Real Estate##
-
-37min
+##Hedge Funds##
+##Fund of Funds##
 
 # Portfolio #
