@@ -5,4 +5,25 @@
 - Par, coupon, maturity, YTM
 
 #Zero coupon bond#
-1.1.37
+
+#Margin Buying and Repurchase#
+
+- Margin Buying
+- Repurchase
+
+#Strips#
+
+
+#Interest Risk#
+
+#Duration# 
+##Convexity##
+
+##PVBP##
+
+##Reinvestment risk##
+
+##Credit Risk##
+
+
+
