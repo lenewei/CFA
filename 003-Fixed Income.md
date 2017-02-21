@@ -16,7 +16,7 @@
 
 #Interest Risk#
 
-#Duration# 
+#Duration#
 ##Convexity##
 
 ##PVBP##
@@ -25,5 +25,15 @@
 
 ##Credit Risk##
 
+#Spread#
 
+#MBS#
+
+- mortgage-backed securities
+
+#Type of prepayment risk#
+- Contraction risk
+- Extension risk
+
+#PAC#
 
