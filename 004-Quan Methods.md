@@ -17,13 +17,21 @@
 - Opportunity cost
 
 ##EAR##
-Effective annual rate
+- Effective annual rate
+- EAR = e^r - 1
+- The greater the compounding frequency, the greater the EAR will be in comparison to the stated rate.
 
+- Future value
+- Present value
 
 ##Annuities##
+
+A stream of cash flows that occurs at  equal intervals
+
+- Ordinary annuities
+- Annuity due
+
 
 #Probability & Statistics#
 
 #Inferential statistics#
-
-44:00 EAR
